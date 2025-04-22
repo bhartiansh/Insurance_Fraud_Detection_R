@@ -69,5 +69,5 @@ The objective is to classify insurance claims as **fraudulent** (`yes`) or **non
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/insurance-fraud-detection.git
+   git clone https://github.com/bhartiansh/Insurance_Fraud_Detection_R/tree/main
    cd insurance-fraud-detection
